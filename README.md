@@ -1,37 +1,72 @@
-## Welcome to GitHub Pages
+[开课吧, 还钱](https://)
+=======
+**请注意 [开课吧, 还钱] 没有除域名和库以外的任何官方账号、app、周边，请勿给予有心之人可乘之机。**
 
-You can use the [editor on GitHub](https://github.com/kaikeba-fucking-debt/kaikeba-fucking-debt/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+`996.ICU`  是指“北京开课吧科技有限公司...” 。这里, 是程序员的倔强。
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+相关报道
+---
 
-```markdown
-Syntax highlighted code block
+- 《新浪微博》：[]()
+- 《南方周末》：[]()
+- 《北京电视台》：[]()
 
-# Header 1
-## Header 2
-### Header 3
+点击此处查看相关报道的[完整列表](/externals/news.md)
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+为什么开课吧会欠老百姓这么多钱？
+---
 
-**Bold** and _Italic_ and `Code` text
+巴拉巴拉...
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+我能做什么？
+---
+- 更新这个[名单](blacklist/README.md)（注附带证据），来帮助每一位受害者...
 
-### Jekyll Themes
+各界声音
+---
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kaikeba-fucking-debt/kaikeba-fucking-debt/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### 官媒
+- ...
 
-### Support or Contact
+### 部委机关
+- ...
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### 资本家
+- **马云, 阿里巴巴创始人**: `“996”是一种福报`。
+- **刘强东，京东创始人**: `京东不会强制995或者996`。
+但是有许多员工匿名表示，公司内部有一个“加班排名表”，列举了各个部门的加班情况排名，排名低的部门会受到惩罚。领导们安排996工作时，也会注意不留下证据。
+- **白鸦, 有赞CEO**: `几年后回看，这次绝对是好事`。
+
+
+原则和目的
+---
+
+* 首先需要申明的是这不是一个政治运动，我们每个人都坚定维护劳动法，但我们同时要求雇主也要尊重雇员的合法权益。
+
+* 996.ICU 是中国众多的 IT 从业者发起的一项倡议，我们欢迎其他领域、其他国家的人士加入讨论。
+
+* 从闭源到开源是一次伟大的进步，从开源到同时强调保护劳工权益也将是一次伟大的进步，我们想要创造一个主张保护劳动者权益的开源软件许可证。
+
+* 我们欢迎一切积极的、具有建设性意义的建议，倡导成熟、负责任以及有价值的发言。
+
+扩大影响
+---
+
+[996.ICU 内容翻译](i18n/README.md)，请自由发挥你的能力，调整格式、添加内容或修正语法。不过要注意，添加过多的翻译版本并非我们的目标。
+
+
+社区
+---
+
+ - [955.WLB](https://github.com/formulahendry/955.WLB) 955 公司白名单，旨在让更多的人逃离 996，加入 955 的行列。
+
+ - [996.LIST](https://github.com/fengT-T/996_list) 此 repo 为 996 和 955 的匿名投票列表。
+
+ 
+
+
+# 如果你是法律专业人士，或是任何愿意为未来版本做出直接贡献的人，请访问...。感谢你的帮助。
